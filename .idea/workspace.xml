@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="449e5ea6-ae22-4571-81d7-92cf9372dc49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rbhMKd4sBCHGIrsyy4wsrFL4c8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.HeapSpaceInitial">
+    <configuration name="HeapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter08.HeapDemo" />
+      <module name="JVMPtoject" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapDemo1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter08.HeapDemo1" />
+      <module name="JVMPtoject" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSpaceInitial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter08.HeapSpaceInitial" />
+      <module name="JVMPtoject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleHeap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chapter08.SimpleHeap" />
+      <module name="JVMPtoject" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:+PrintGCDetails" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimpleHeap" />
+      <item itemvalue="Application.HeapDemo1" />
+      <item itemvalue="Application.HeapDemo" />
+      <item itemvalue="Application.HeapSpaceInitial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeapSpaceInitial" />
+        <item itemvalue="Application.HeapDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="449e5ea6-ae22-4571-81d7-92cf9372dc49" name="Default Changelist" comment="" />
+      <created>1619250647155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619250647155</updated>
+      <workItem from="1619250649953" duration="4100000" />
+      <workItem from="1619315862362" duration="19171000" />
+      <workItem from="1619658265763" duration="8708000" />
+      <workItem from="1619686902852" duration="1022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1619251307158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1619251307158" />
+    <state x="650" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619662312647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619662312647" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1619404249582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619404249582" />
+    <state x="815" y="531" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1619662209782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="531" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619662209782" />
+    <state x="498" y="359" key="FileChooserDialogImpl" timestamp="1619595481775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="498" y="359" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619595481775" />
+    <state width="914" height="447" key="GridCell.Tab.0.bottom" timestamp="1619670321750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="447" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619670321750" />
+    <state width="914" height="447" key="GridCell.Tab.0.center" timestamp="1619670321750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="447" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619670321750" />
+    <state width="914" height="447" key="GridCell.Tab.0.left" timestamp="1619670321749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="447" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619670321749" />
+    <state width="914" height="447" key="GridCell.Tab.0.right" timestamp="1619670321750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="447" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619670321750" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1619251516758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619251516758" />
+    <state x="1072" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1619589180027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1072" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619589180027" />
+  </component>
+</project>
